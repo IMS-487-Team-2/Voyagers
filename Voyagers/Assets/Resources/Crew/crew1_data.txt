@@ -1,0 +1,53 @@
+Crew1|
+4|
+2|
+3|
+6|
+
+Hello|
+
+This is the text in the file!|
+
+Wow isn't that neat!?_
+Wow I think that's crazy!!|What about you?|
+
+Hmm, I wonder about that.|
+
+What about you? Any idea_
+on what you'll be doing after all of this?|
+
+
+
+Dialogue 6|
+
+Dialogue 7|
+
+Dialogue 8|
+
+Dialogue 9|
+
+Dialogue 10|
+
+
+
+Dialogue 11|
+
+Dialogue 12|
+
+Dialogue 13|
+
+Dialogue 14|
+
+Dialogue 15|
+
+
+
+Dialogue 16|
+
+Dialogue 17|
+
+Dialogue 18|
+
+Dialogue 19|
+
+Dialogue 20

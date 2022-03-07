@@ -1,0 +1,69 @@
+(name)|
+(strength)|
+(dexterity)|
+(intelligence)|
+(resilience)|
+
+
+(part 1 amazing mood dialogue)|
+
+(part 1 good mood dialogue)|
+
+(part 1 neutral mood dialogue)|
+
+(part 1 bad mood dialogue)|
+
+(part 1 horrible mood dialogue)|
+
+
+
+(part 2 amazing mood dialogue)|
+
+(part 2 good mood dialogue)|
+
+(part 2 neutral mood dialogue)|
+
+(part 2 bad mood dialogue)|
+
+(part 2 horrible mood dialogue)|
+
+
+
+(part 3 amazing mood dialogue)|
+
+(part 3 good mood dialogue)|
+
+(part 3 neutral mood dialogue)|
+
+(part 3 bad mood dialogue)|
+
+(part 3 horrible mood dialogue)|
+
+
+
+(part 4 amazing mood dialogue)|
+
+(part 4 good mood dialogue)|
+
+(part 4 neutral mood dialogue)|
+
+(part 4 bad mood dialogue)|
+
+(part 4 horrible mood dialogue)
+
+
+========================== KEY INFO (NOT PART OF THE FORMAT) =============================
+
+- As shown in the format, all stats and dialogue options must end with the "|" character WITHOUT a space. So for example 
+  if dialogue 1 was "what's your name?" you would write it in the text document as: "what's your name?|" without the quotes.
+  However, the last dialogue option (part 4 horrible mood dialogue) should not have a "|" at the end as shown above 
+
+- The 4 stats (strength, dexterity, intelligence, and resilience) MUST be integers. If they are not then the code will error
+
+- For the dialogue, if you want to put the dialogue text on multiple lines in the text document so that you aren't writing it all on one line, you must put a "_" after the last character on the line without a space
+  similar to how you use the | to end an option. An example of this is below
+
+This journey has been rough so far, but as long as we work together I believe we can_
+overcome any challenge that greets us!|
+
+(This example would be turned into the following string "This journey has been rough so far, but as long as we work together I believe we can overcome any challenge that greets us!")
