@@ -94,3 +94,12 @@ public class CrewInfo : MonoBehaviour
         Debug.Log(str);
     }
 }
+
+
+//GameObject crewMember = GameObject.Find("CrewMember");
+//CrewInfo crewInfo = crewMember.GetComponent<CrewInfo>();
+//nameAgain = crewInfo.crewName;
+
+// GameObject crewMember = GameObject.Find("Crewmate");
+//Crewmate crewInfo = crewMember.GetComponent<Crewmate>();
+//nameAgain = crewInfo.crewmateName;
